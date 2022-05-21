@@ -1,0 +1,6 @@
+id=TBM13-WifiDC-A20
+name=Samsung WiFi Dual Concurrency
+version=v1.0
+versionCode=1
+author=TBM13
+description=Sets vendor.wifi.dualconcurrent.interface to wlan1 and patches vendor wifi service (enables dual concurrency for ALL interfaces in SecIsDualInterfaceSupported). Requires special kernel.

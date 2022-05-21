@@ -1,0 +1,1 @@
+allow sswap system_file file { entrypoint }

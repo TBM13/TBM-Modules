@@ -1,0 +1,9 @@
+This difference file was created by IDA
+
+android.hardware.wifi@1.0-service
+These two may not be needed:
+000000000002F811: 01 05
+000000000003FBE9: 01 05
+
+000000000002F835: 17 07
+000000000003FC0D: 17 07

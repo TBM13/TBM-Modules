@@ -1,0 +1,6 @@
+id=TBM13-Sepolicy-AOSP12
+name=Sepolicy Fixes for AOSP/PE 12 (GSI)
+version=v1.2
+versionCode=3
+author=TBM13
+description=Some Sepolicy fixes for A20 | AOSP/PE 12 GSI | May break Hotspot! Uncomment line in service.sh if this happens!

@@ -1,0 +1,1 @@
+setprop vendor.wifi.dualconcurrent.interface wlan1
