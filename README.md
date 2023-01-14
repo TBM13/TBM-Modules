@@ -1,2 +1,2 @@
 # TBM-Modules
-Magisk Modules i created for personal use in my Galaxy A20
+Collection of Magisk Modules that I created for personal use on my devices
