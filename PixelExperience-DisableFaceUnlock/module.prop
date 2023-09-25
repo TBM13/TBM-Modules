@@ -1,6 +1,0 @@
-id=TBM13-PE-DisableFaceUnlock
-name=Disable Face Unlock on Pixel Experience
-version=v1.0
-versionCode=1
-author=TBM13
-description=org.pixelexperience.faceunlock is always running in the background, even when face unlock is disabled. This module stops this behaviour by disabling face unlock.
