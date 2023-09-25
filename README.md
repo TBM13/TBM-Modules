@@ -3,7 +3,6 @@ Collection of Magisk Modules created for personal use on my devices
 
 ### General Modules
 * **[SamsungNotes](./SamsungNotes/)**: Allows the Samsung Notes app to be used on any device and ROM.
-* **[SepolicyFixes-GSI](./SepolicyFixes-GSI/)**: Sepolicy Fixes for PHH/TrebleDroid-based GSIs. For more info on what it does, take a look to the [sepolicy.rule file](./SepolicyFixes-GSI/sepolicy.rule)
 
 ### Galaxy A20 Modules
 * **[SwapFix](./Galaxy%20A20/SwapFix/)**: Enables swap & zRAM on non-Samsung ROMs. This is needed because on the stock ROM the vendor relies on a system binary (`/system/bin/sswap`) which is not present on GSIs.

@@ -1,2 +1,0 @@
-# fix dmesg
-allow shell kernel system { syslog_read }
