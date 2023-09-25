@@ -1,0 +1,6 @@
+id=TBM13-WifiDualBand-A20
+name=Samsung WiFi Dual Band
+version=v1.0
+versionCode=1
+author=TBM13
+description=Enables WiFi dual band support (5 GHz) on the Galaxy A20 by using the WiFi firmware & config from the Galaxy A30. 
