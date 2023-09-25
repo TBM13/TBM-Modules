@@ -1,6 +1,0 @@
-id=TBM13-TD-TBT8A10-Fixes
-name=TBT8A10 Android 12/13 fixes
-version=v1.0
-versionCode=1
-author=TBM13
-description=Fixes to boot any Android 12/13 GSI on the Kanji TBT8A10 (ENACOM) Tablet. Tested on TrebleDroid 13 GSI.
